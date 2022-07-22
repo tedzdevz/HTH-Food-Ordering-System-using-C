@@ -1,0 +1,65 @@
+MEALS
+
+BURGER:			
+	Hamburger		
+	Chesseburger		
+	Hotdog Bun		
+	Veggie burger
+	Chicken burger	
+	Fish burger
+
+Welcome to the RICE fields madapaka:
+	Plain rice
+	Garlic Rice
+	Arroz Caldo
+
+FRIES:
+	Cheese Fries
+	Sour-Cream Fries
+	Barbecue fries
+BEVERAGE:
+	Juice
+	Iced Tea
+	Pineapple
+	Cola
+	Coke
+	Sprite
+	Royal
+	Water
+	Coffee
+STEAK
+	Filet
+	Tenderloin
+	Rib Eye
+	T-Bone
+CHICKEN:
+	Fried Chicken
+	Plain Chicken
+	Spicy Chicken
+	Baked Chicken Strips
+	
+ICE CREAM:
+	Chocolate
+	Mango
+	Ube
+	Vanilla
+	Cookies n' Cream
+	Strawberry
+PASTA:
+	Spaghetti
+	Mac n' Cheese
+	Lasagna
+SOUP: 
+	Chicken Noodle Soup
+	Wonton soup
+	Pork Noodle soup
+	Ramen
+DESSERTS:
+	
+	Cheesecake
+	Cookie Bars
+	Mango Float
+	Salad
+
+	
+	
